@@ -1,4 +1,4 @@
-# cacl_exe_time.sh
+# calc_exe_time.sh
 
 time コマンドで出力される実行時間の平均を計算するシェルスクリプト.
 
